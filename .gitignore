@@ -1,0 +1,3 @@
+# leave out Jupyter Checkpoints
+.ipynb_checkpoints/
+
