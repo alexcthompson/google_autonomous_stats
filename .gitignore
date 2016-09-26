@@ -1,3 +1,6 @@
+# hate hate hate DS_Store
+.DS_Store
+
 # leave out Jupyter Checkpoints
 .ipynb_checkpoints/
 
