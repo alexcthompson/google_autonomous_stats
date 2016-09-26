@@ -1,3 +1,8 @@
 # leave out Jupyter Checkpoints
 .ipynb_checkpoints/
 
+# leave out temporary excel files etc
+~*
+
+# leave out graphs
+graphs/
